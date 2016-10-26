@@ -1,0 +1,6 @@
+{
+    "appSecret": "e7929db5287e8248009daddac2fd2c47",
+    "pageAccessToken": "EAAC7YzQTAbUBAFCQ3uITSD6Vqd9KO70CZBMTLLs7YNIHhs7U6CK0ZBSV6Hf0q0W0rJOxuUhXdiAQBO1OBTH3rsDynaNaBPRYU0MbSVykoys8vfyuF3nFLvxe13NjmrlFFdF5Mf23xVLcHLJuB8wMTIv1sbGAIab3ro5fnX5gZDZD",
+    "validationToken": "2b56a07fa0f3a0132c49ab1340c1b58c",
+    "serverURL": "http://localhost:8090/webhook"
+}
